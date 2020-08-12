@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/MuslimMujahid/simple-calculator-javascript/issues"
   },
-  "homepage": "https://github.com/MuslimMujahid/simple-calculator-javascript#readme"
+  "homepage": "https://github.com/MuslimMujahid/simple-calculator-javascript#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "electron": "^9.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
