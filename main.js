@@ -4,7 +4,7 @@ const bodyParser = require('body-parser')
 const createWindow = () => {
     const win = new BrowserWindow({
         width: 400,
-        height: 548,
+        height: 538,
         resizable: false,
         webPreferences: {
             nodeIntegration: true
