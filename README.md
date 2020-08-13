@@ -1,5 +1,7 @@
 # simple-calculator-javascript
 
+## Introduction
+This is a simple desktop calculator build with electron js
 
 ## Tech
 - Node js
