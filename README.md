@@ -1,5 +1,7 @@
 # simple-calculator-javascript
 
+![alt text](images/example.png "Example")
+
 ## Introduction
 This is a simple desktop calculator build with electron js
 
